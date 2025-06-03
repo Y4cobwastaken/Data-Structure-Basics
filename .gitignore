@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# VS Code settings (if you use VS Code)
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
